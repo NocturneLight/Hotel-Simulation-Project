@@ -7,3 +7,6 @@ To recompile, type these two statements one after the other:
 
 To run the program, type:
 	./ProjectTwo
+	
+	
+NOTE: Only works in Unix environments!
